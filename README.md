@@ -1,4 +1,4 @@
-<img width="781" height="855" alt="image" src="https://github.com/user-attachments/assets/1fc7e799-702a-40b5-b32a-dff07ba2f262" /># NestJS на Amvera
+# NestJS на Amvera
 
 Простой пример деплоя NestJS в [Amvera](https://amvera.ru).
 
