@@ -1,4 +1,4 @@
-# NestJS на Amvera
+<img width="781" height="855" alt="image" src="https://github.com/user-attachments/assets/1fc7e799-702a-40b5-b32a-dff07ba2f262" /># NestJS на Amvera
 
 Простой пример деплоя NestJS в [Amvera](https://amvera.ru).
 
@@ -14,6 +14,8 @@
 - `GET /api/items`
 - `POST /api/items`
 - `DELETE /api/items/{id}`
+
+<img width="781" height="855" alt="image" src="https://github.com/user-attachments/assets/d577ce1e-73a6-4d62-bd85-f7d9ec144004" />
 
 ## Как правильно сохранять файлы
 
